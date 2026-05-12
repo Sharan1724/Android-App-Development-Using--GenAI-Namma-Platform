@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Namma Platform</string>
+    <string name="select_station">Select Station</string>
+    <string name="upcoming_trains">Upcoming Trains</string>
+    <string name="coach_layout">Coach Layout</string>
+    <string name="speak_kannada">🔊 ಕೇಳಿ</string>
+    <string name="platform_label">Platform</string>
+    <string name="no_trains">No upcoming trains</string>
+</resources>
